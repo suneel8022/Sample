@@ -1,2 +1,1 @@
-Talada
-Kanakala
+THis is the surnames file
